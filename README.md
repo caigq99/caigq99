@@ -28,5 +28,5 @@
 </div>
 
 <!-- 统计数据展示 -->
-## GitHub Stats
-![caigq99's GitHub stats](https://github-readme-stats.vercel.app/api?username=caigq99&show_icons=true)
+<!-- ## GitHub Stats -->
+<!-- ![caigq99's GitHub stats](https://github-readme-stats.vercel.app/api?username=caigq99&show_icons=true) -->
